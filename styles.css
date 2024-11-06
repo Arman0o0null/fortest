@@ -8,4 +8,9 @@
 
 body{
     background-color: ligthblue;
-  }
+}
+
+div{
+  color: red;
+  /*thsis style only apply in the new-style branch*/
+}
