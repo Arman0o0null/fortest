@@ -1,0 +1,11 @@
+*/thsi is style sheet for index.html file*/
+
+*{
+  box-sizing : border-box;
+  margin : 0;
+  padding : 0;
+}
+
+body{
+    background-color: ligthblue;
+  }
